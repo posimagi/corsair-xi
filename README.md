@@ -1,6 +1,4 @@
-# corsair-xi
-
-## Monte Carlo simulation of Phantom Roll strategy for Corsair in FFXI
+## corsair-xi: Monte Carlo simulation of Phantom Roll strategy for Corsair in FFXI
 
 ### How to use
 
