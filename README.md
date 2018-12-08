@@ -7,7 +7,7 @@ You can tweak the simulation's assumptions by modifying the following variables:
 * `UNLUCKY`: The roll's Unlucky number.
 * `SNAKE_EYE_LEVEL`: The number of merits put into Snake Eye.
 * `CONSECUTIVE_ROLLS`: How many Phantom Rolls will be executed before Job Abilities (e.g. Snake Eye) come off cooldown.
-* `RUNS`: How many simulations to perform;. A larger number will provide more accurate results, but take longer to execute.
+* `RUNS`: How many simulations to perform. A larger number will provide more accurate results, but take longer to execute.
 
 ### Limitations
 
